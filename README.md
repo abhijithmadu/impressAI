@@ -1,7 +1,7 @@
 # impressai-machine-test
 Telegram Bot - Django
 
-- Clone The project :- https://github.com/AthifSaheer/impressai-machine-test
+- Clone The project :- https://github.com/abhijithmadu/impressAI
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -33,7 +33,7 @@ If you would love to run this project on your local env I will walk you through:
    
 3. Clone the repo
    ```sh
-   https://github.com/AthifSaheer/impressai-machine-test
+   https://github.com/abhijithmadu/impressAI
    ```
    
 4. Install requirements.txt
